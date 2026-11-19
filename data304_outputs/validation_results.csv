@@ -1,0 +1,6 @@
+model,recall_at_10,n_queries
+BM25,0.145,200
+Pretrained dense,0.02,200
+Gold fine-tuned dense,0.135,200
+ColBERT + cross (gold),0.39,200
+ColBERT + cross (final),0.39,200
